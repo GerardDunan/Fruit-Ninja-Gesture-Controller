@@ -94,6 +94,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenCV](https://opencv.org/) for computer vision capabilities
 - [PyAutoGUI](https://pyautogui.readthedocs.io/) for mouse control
 - [BlueStacks](https://www.bluestacks.com/) for Android emulation
-
-
+---
 Created with ❤️ by **Gerard**
