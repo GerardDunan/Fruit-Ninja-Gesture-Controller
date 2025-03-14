@@ -96,4 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [BlueStacks](https://www.bluestacks.com/) for Android emulation
 
 
-Created with ❤️ by Gerard
+Created with ❤️ by **Gerard**
