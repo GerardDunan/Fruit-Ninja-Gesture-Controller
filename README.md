@@ -29,7 +29,7 @@ A secure hand gesture-based controller for Fruit Ninja that uses face recognitio
 ### Setting up the Controller
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fruitninja-controller.git
+git clone https://github.com/GerardDunan/fruitninja-controller.git
 cd fruitninja-controller
 
 # Install required packages
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 1. Launch Fruit Ninja in BlueStacks
 2. Run the controller script:
    ```bash
-   python fruitninja_gesture_controller.py
+   python main.py
    ```
 3. Position yourself in front of the webcam
 4. Make a peace sign ✌️ and hold until the progress bar fills
