@@ -29,7 +29,7 @@ A secure hand gesture-based controller for Fruit Ninja that uses face recognitio
 ### Setting up the Controller
 ```bash
 # Clone the repository
-git clone https://github.com/GerardDunan/fruitninja-controller.git
+git clone https://github.com/GerardDunan/Fruit-Ninja-Gesture-Controller.git
 cd fruitninja-controller
 
 # Install required packages
